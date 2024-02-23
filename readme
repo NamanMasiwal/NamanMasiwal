@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            display: block;
+        }
+        .profile-name {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .profile-details {
+            text-align: center;
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .profile-info {
+            margin-bottom: 10px;
+        }
+        .profile-info span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="profile-pic.jpg" alt="Profile Picture" class="profile-img">
+        <h1 class="profile-name">John Doe</h1>
+        <p class="profile-details">Web Developer</p>
+        <div class="profile-info">
+            <p><span>Email:</span> john.doe@example.com</p>
+            <p><span>Location:</span> New York, USA</p>
+            <p><span>Skills:</span> HTML, CSS, JavaScript, PHP</p>
+        </div>
+        <div class="profile-bio">
+            <h2>Bio</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus diam eget massa sodales ultricies. Cras non enim et nisl fermentum gravida. Nam eget maximus nunc. Fusce at nisi efficitur, hendrerit felis at, sollicitudin metus. In eu massa euismod, varius ipsum id, dictum purus. Nullam tincidunt hendrerit justo, sed gravida mauris vestibulum non. In hac habitasse platea dictumst.</p>
+        </div>
+    </div>
+</body>
+</html>
