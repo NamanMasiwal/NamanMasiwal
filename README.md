@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Data Science
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science and computer programming.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 
 <h3>🛠 Tech Stack</h3>
