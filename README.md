@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Power Bi | Tablue|  PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp;  Illustrator | Photoshop | OpenShot
