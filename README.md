@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Naman. <img src="https://github.com/NamanMasiwal" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
