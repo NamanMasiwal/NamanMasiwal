@@ -34,4 +34,4 @@
 &nbsp; <a href="mailto:namanmasiwal181@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [NamanMasiwal](https://github.com/NamanMasiwal)
+⭐️ From [NamanMasiwal](https://github.com/NamanMasiwal) Tab Me for Projects.
